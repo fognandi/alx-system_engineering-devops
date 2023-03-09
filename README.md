@@ -1,1 +1,2 @@
-Shell Basic readme
+#!bin/bash/
+good God

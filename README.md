@@ -1,2 +1,2 @@
-#!bin/bash/
-good God
+#!bin/bash/ 
+Shell Basics readme
